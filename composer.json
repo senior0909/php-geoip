@@ -1,0 +1,14 @@
+{
+    "name": "tdomy/php-geoip",
+    "description": "Example of geoip2",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "tdomy",
+            "email": "y.tokudomi@tdomy.com"
+        }
+    ],
+    "require": {
+        "geoip2/geoip2": "~2.0"
+    }
+}
